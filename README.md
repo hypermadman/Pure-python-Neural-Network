@@ -6,7 +6,7 @@ a pure Python Neural Network with configurable size and back propagation algorit
 import matplotlib.pyplot as plt
 import numpy as np
 import PurePythonNN
-# training data same as test data
+# training input same as target output data
 X=np.array([[1,0,0,0],[0,1,0,0],[0,0,1,0],[0,0,0,1]])
 y=X
 
